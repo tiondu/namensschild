@@ -1,3 +1,3 @@
 basic.forever(function () {
-    basic.showString("hi!")
+    basic.showString("hi!", 2000)
 })
